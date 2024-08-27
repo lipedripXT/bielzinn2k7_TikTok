@@ -1,0 +1,70 @@
+ body {
+    color:black;
+    background: #e0e0e0;
+    font-size: 20px;
+    margin: 0px;
+  font-family: "lato-thin", sans-serif;
+    
+ }
+
+ header {
+   border-bottom: solid 5px rgb(0, 217, 255) ;
+   padding: 5px 600px 5px 575px;
+   font-size: 20px;
+   color: black;
+ }
+ section {
+   background: rgb(209, 161, 255);
+   margin-top: 0px;
+ }
+ 
+ div {margin-left: 5px;}
+ 
+ .lipe {
+margin-right: 20px;
+margin-left: 20px;
+ }
+
+ .biel {
+   margin-right: 20px;
+   margin-left: 20px;
+
+ }
+
+ .ap {
+   margin-left: 20px;
+   margin-right: 20px;
+ }
+
+ .lato-thin {
+   font-family: "Lato", sans-serif;
+   font-weight: 100;
+   font-style: normal;
+ }
+
+ img {
+   height: 145px;
+   margin-left: 4px;
+   margin-right: 3px;
+   opacity: 1;
+ }
+
+ .categoria {
+   font-size: 30px;
+   margin-bottom: 5px;
+   margin-left: 600px;
+ }
+ 
+ .categoria2 {
+   opacity: 0.5;
+
+ }
+
+ .categoria2:hover {
+   opacity: 1.0;
+   border: 10px blue;
+ }
+
+ .categoria2 {
+   margin-left: 562px;
+ }
